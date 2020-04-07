@@ -1,0 +1,8 @@
+1) Telecharger xamp puis  lancer Apache et Mysql
+1.1) Accéder à la BDD via  http://localhost/phpmyadmin/  et importer la BDD (soit en copiant collant le contenu de bdd_projet_picassa.sql puis en execuant la requête ou soit en important le fichier .sql)
+2) Telechategr composer puis l'installer
+3) Copier coller le dossier picassa et ouvrir le terminal dedans via la commande cd puis le nom du répertoire,   par exemple :      cd C:\Users\1833\Documents\LP-Creaweb\picassa
+4) Lancer la commande :      composer global require laravel/installer
+5) lancer la commande :       php artisan serve             puis dans le navigateur accéder à :             http://localhost:8000
+6)
+7)
